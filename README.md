@@ -1,4 +1,4 @@
-# SentimentAnalyser
+# Sentiment Analyser
 
 @author Anastasiia Ryzhkova
 @version Java 21
